@@ -1,3 +1,7 @@
  # ex1
-irgendwas
-11
+
+
+name  Lion
+age 29
+nationality deutsch
+favorite food Pizza
